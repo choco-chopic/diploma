@@ -1,0 +1,6 @@
+﻿file,event,event_group,duration_sec,samples,channels,pairs_used
+kaggle_s00_KNOWN_EEG_PATTERNS.csv,Kaggle Complete EEG Dataset s00,kaggle_external,242.1875,31000,"['Fp1', 'Fp2', 'F3', 'F4', 'C3', 'C4', 'P3', 'P4', 'O1', 'O2']",9
+kaggle_s01_KNOWN_EEG_PATTERNS.csv,Kaggle Complete EEG Dataset s01,kaggle_external,242.1875,31000,"['Fp1', 'Fp2', 'F3', 'F4', 'C3', 'C4', 'P3', 'P4', 'O1', 'O2']",9
+kaggle_s02_KNOWN_EEG_PATTERNS.csv,Kaggle Complete EEG Dataset s02,kaggle_external,242.1875,31000,"['Fp1', 'Fp2', 'F3', 'F4', 'C3', 'C4', 'P3', 'P4', 'O1', 'O2']",9
+kaggle_s03_KNOWN_EEG_PATTERNS.csv,Kaggle Complete EEG Dataset s03,kaggle_external,242.1875,31000,"['Fp1', 'Fp2', 'F3', 'F4', 'C3', 'C4', 'P3', 'P4', 'O1', 'O2']",9
+kaggle_s04_KNOWN_EEG_PATTERNS.csv,Kaggle Complete EEG Dataset s04,kaggle_external,242.1875,31000,"['Fp1', 'Fp2', 'F3', 'F4', 'C3', 'C4', 'P3', 'P4', 'O1', 'O2']",9

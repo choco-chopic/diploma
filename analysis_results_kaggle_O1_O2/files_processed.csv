@@ -1,0 +1,2 @@
+﻿file,event,event_group,duration_sec,samples,channels,pairs_used
+kaggle_s01_O1_O2.csv,Kaggle Complete EEG Dataset s01 O1_O2,kaggle_external,242.1875,31000,"['O1', 'O2']",1

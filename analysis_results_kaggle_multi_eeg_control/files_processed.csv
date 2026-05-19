@@ -1,0 +1,2 @@
+﻿file,event,event_group,duration_sec,samples,channels,pairs_used
+kaggle_s01_MULTI_EEG_CONTROL.csv,Kaggle Complete EEG Dataset s01 MULTI_EEG_CONTROL,kaggle_external,242.1875,31000,"['Fp1', 'Fp2', 'C3', 'C4', 'O1', 'O2']",3
