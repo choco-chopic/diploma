@@ -1,4 +1,0 @@
-﻿event_group,comparison,relation_type,n_windows,artifact_rate,mean_abs_corr,mean_alpha_coherence,mean_alpha_wpli,mean_beta2_coherence
-kaggle_external,left_frontal_eeg__vs__right_frontal_eeg,EEG_EEG_CONNECTIVITY,239,0.0,0.610959372666938,0.5074511907712731,0.3094937044786254,0.5581622673470646
-kaggle_external,left_motor_eeg__vs__right_motor_eeg,EEG_EEG_CONNECTIVITY,239,0.0,0.6811864250512352,0.6473618598625834,0.2890390527162754,0.666894839709662
-kaggle_external,left_occipital_eeg__vs__right_occipital_eeg,EEG_EEG_CONNECTIVITY,239,0.0,0.606173049058794,0.5273819994302933,0.299648920692496,0.5805618313932269

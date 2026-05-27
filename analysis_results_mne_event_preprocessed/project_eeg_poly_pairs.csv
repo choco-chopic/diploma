@@ -1,0 +1,9 @@
+﻿ch1,ch2,expected
+Fp1,POLY3,eeg_neck_emg
+Fp1,POLY4,eeg_neck_emg
+Fp2,POLY3,eeg_neck_emg
+Fp2,POLY4,eeg_neck_emg
+O1,POLY3,eeg_neck_emg
+O1,POLY4,eeg_neck_emg
+O2,POLY3,eeg_neck_emg
+O2,POLY4,eeg_neck_emg
